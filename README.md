@@ -16,3 +16,8 @@
 1) **5_diagonalDifference:** in a 2D, find the absolute difference between the two diagonal lines of integers
 
 2) **6_plusMinus:** an array of random positive and negative integers, and zeros are generated; of the integers in the array you must calculate the percent of positive, negative, and zero integers
+
+##### Day 3: January 24, 2017
+1) **7_staircase:** take in an int, and create print a stair with the specified amount of stairs relative to the int
+
+2) **8_timeConversion:** take in a 12-hour time, separate the each portion of the time, and convert it to a 24-hour time

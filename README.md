@@ -21,3 +21,8 @@
 1) **7_staircase:** take in an int, and create print a stair with the specified amount of stairs relative to the int
 
 2) **8_timeConversion:** take in a 12-hour time, separate the each portion of the time, and convert it to a 24-hour time
+
+##### Day 4: January 25, 2017
+1) **9_circularArrayRotation:** take in an array of numbers, and shift all of the numbers to a specified index
+
+2) **10_miniMaxSum:** take in five integers, find the sum, and then subtract the min/max sum of four of the numbers from the sum

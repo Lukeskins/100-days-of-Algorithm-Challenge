@@ -31,3 +31,8 @@
 1) [**11_designerPDFViewer:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/11_designerPDFViewer.java) find the area of a word in as if in a PDF by calculating the fixed width by the maximum height of all the letters within the word
 
 2) [**12_kangaroo:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/12_kangaroo.java) two separate kangaroos are hopping, both starting at a different point, with a different rate; find if the kangaroos ever will jump at the same place
+
+#### Day 6: January 27, 2017
+1) [**13_angryProfessor:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/13_angryProfessor.java) calculate if a professor will cancel class; if his/her required amount of students do no show up on time, he/she cancels class
+
+2) [**14_beautifulDaysAtTheMovies:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/14_beautifulDaysAtTheMovies.java) see how many days, between two given day values, that the absolute value of the difference of the day and its day value reversed, evenly divisible by a specified number

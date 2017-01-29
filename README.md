@@ -36,3 +36,8 @@
 1) [**13_angryProfessor:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/13_angryProfessor.java) calculate if a professor will cancel class; if his/her required amount of students do no show up on time, he/she cancels class
 
 2) [**14_beautifulDaysAtTheMovies:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/14_beautifulDaysAtTheMovies.java) see how many days, between two given day values, that the absolute value of the difference of the day and its day value reversed, evenly divisible by a specified number
+
+#### Day 7: January 28, 2017
+1) [**15_pangrams:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/15_pangrams.java) from an input sentence, see if it is a pangram (a sentence containing every letter in the alphabet)
+
+2) [**16_caesarCipher:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/16_caesarCipher.java) take an input, and shift the message by a specified amount of characters

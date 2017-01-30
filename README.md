@@ -41,3 +41,8 @@
 1) [**15_pangrams:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/15_pangrams.java) from an input sentence, see if it is a pangram (a sentence containing every letter in the alphabet)
 
 2) [**16_caesarCipher:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/16_caesarCipher.java) take an input, and shift the message by a specified amount of characters
+
+#### Day 8: January 29, 2017
+1) [**17_viralAdvertising:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/17_viralAdvertising.java) see how many people an ad is advertised to after a specified number of days due to exponential growth, in relation to people who like the ad, and those who do Not
+
+2)[**18_camelCase:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/18_camelCase.java) find how many words are in a camelcase string

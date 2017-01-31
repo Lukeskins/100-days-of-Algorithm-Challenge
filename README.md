@@ -46,3 +46,8 @@
 1) [**17_viralAdvertising:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/17_viralAdvertising.java) see how many people an ad is advertised to after a specified number of days due to exponential growth, in relation to people who like the ad, and those who do Not
 
 2)[**18_camelCase:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/18_camelCase.java) find how many words are in a camelcase string
+
+#### Day 9: January 30, 2017
+1) [**19_repeatedString:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/19_repeatedString.java) with an input string, find how many a's are in it when it is repeated a number of times
+
+2)[**20_theLoveLetterMystery:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/20_theLoveLetterMystery.java) by reducing the value of a letter, see how many operations it takes to reduce a word to a palindrome

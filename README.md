@@ -51,3 +51,8 @@
 1) [**19_repeatedString:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/19_repeatedString.java) with an input string, find how many a's are in it when it is repeated a number of times
 
 2)[**20_theLoveLetterMystery:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/20_theLoveLetterMystery.java) by reducing the value of a letter, see how many operations it takes to reduce a word to a palindrome
+
+#### Day 10: January 31, 2017
+1) [**21_marsExploration:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/21_marsExploration.java) from an altered message saying 'SOS' a specified amount of times, find how many errors there are in the message when received
+
+2) [**22_alternatingCharacters:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/22_alternatingCharacters.java) in a string of letters of A and B, see how many deletions must be made so that the letters alternate

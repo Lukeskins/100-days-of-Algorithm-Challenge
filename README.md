@@ -56,3 +56,8 @@
 1) [**21_marsExploration:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/21_marsExploration.java) from an altered message saying 'SOS' a specified amount of times, find how many errors there are in the message when received
 
 2) [**22_alternatingCharacters:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/22_alternatingCharacters.java) in a string of letters of A and B, see how many deletions must be made so that the letters alternate
+
+#### Day 11: February 1, 2017
+1) [**23_divisibleSumPairs:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/23_divisibleSumPairs.java) from an array, see how many pairs of two indexes added together are evenly divisible by a specified int (submitted late on February 2, 2017)
+
+2) [**24_findDigits:**](https://github.com/Lukeskins/100-days-of-Algorithm-Challenge/blob/master/Algorithms/24_findDigits.java) find how many individual number characters in a number can divide evenly the primary number (submitted late on February 2, 2017)
